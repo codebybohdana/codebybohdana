@@ -33,7 +33,7 @@ Currently building an e-commerce platform for digital products with secure purch
 
 # 🚀 Current Project
 
-### [E-Commerce Platform for Digital Products](https://github.com/codebybohdana/digital-products-platform)
+### [E-Commerce Platform for Digital Products](https://github.com/codebybohdana/digital_products_platform)
 
 Full-stack platform for selling digital products with secure authentication and protected file access.
 
