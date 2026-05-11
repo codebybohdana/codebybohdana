@@ -1,6 +1,7 @@
 # Hi, I'm Bohdana 👩🏽‍💻
 
 Computer Engineering student focused on full-stack web development and modern web applications.
+
 Currently building an e-commerce platform for digital products with secure purchase-based file access and authentication systems.
 
 ---
