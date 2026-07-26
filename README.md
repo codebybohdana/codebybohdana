@@ -1,4 +1,3 @@
-Readme · MD
 # Hi, I'm Bohdana 👩🏽‍💻
 I turn ideas into web products with clear structure, thoughtful interfaces, and reliable logic.
  
