@@ -1,8 +1,6 @@
 # Hi, I'm Bohdana 👩🏽‍💻
 I turn ideas into web products with clear structure, thoughtful interfaces, and reliable logic.
  
----
- 
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -23,9 +21,7 @@ I turn ideas into web products with clear structure, thoughtful interfaces, and 
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
----
- 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdana-yablinchuk)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yablinchuk.bohdana@gmail.com)
